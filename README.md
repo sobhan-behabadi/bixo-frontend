@@ -9,7 +9,8 @@ If you need to be the manager of an economic company, this is suitable for you
 ## Table of Contents
 
 1. [Usage](#usage)
-2. [Installation](#installation)
+2. [language](#languages)
+3. [Installation](#installation)
 
 
 
@@ -19,6 +20,17 @@ very easy to use
 just see installation
 
 
+## languages
+
+Languages and LB used in this program : 
+ 1. js
+ 2. HTML
+ 3. css
+ 4. React :
+    1. formik
+    2. react-query
+    3. ...
+        
 
 ## Installation
 
